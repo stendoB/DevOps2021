@@ -1,4 +1,5 @@
 # Hi, I'm Jahodka
+Serus Pato, vitaj :)
 
 Why is jahoda so sweet?:
 
