@@ -2,9 +2,8 @@
 
 Toto je devops projekt
 
-* prvy
-* druhy
-* treti
+* Jahodka
+* Malinka
+* Test
 
-Test
 ## Good :)
