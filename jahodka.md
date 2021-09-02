@@ -2,8 +2,11 @@
 
 Why is jahoda so sweet?:
 
-* red
+* **red**
 * big
 * sweet
+
+
+Any ideas?
 
 ## Thats all!
