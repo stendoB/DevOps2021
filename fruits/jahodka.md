@@ -1,4 +1,4 @@
-# Hi, I'm Jahodka
+# Hi, I'm Jahodka, Ahoj ja som Patko a editujem si ta ako chcem
 Serus Pato, vitaj :)
 
 Why is jahoda so sweet?:
