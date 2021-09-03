@@ -6,4 +6,6 @@ Toto je devops projekt
 * Malinka
 * Test
 
+Ovocie bolo presunute do subdirectory.
+
 ## Good :)
