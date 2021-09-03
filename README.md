@@ -1,4 +1,4 @@
-# DevOps2021
+# DevOps2022
 
 Toto je devops projekt
 
